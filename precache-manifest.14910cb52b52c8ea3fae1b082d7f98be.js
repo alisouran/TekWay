@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8301aa8c6f53ff8b563c07e8193ed10",
+    "revision": "aa33f22ed79a592a342eed99f90bd6f9",
     "url": "/tekway/index.html"
   },
   {
-    "revision": "5d0b60b4e4d691de24a7",
+    "revision": "7bb8deef4ee80aabdf54",
     "url": "/tekway/static/css/main.23e8431a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tekway/static/js/2.3310f33a.chunk.js"
   },
   {
-    "revision": "5d0b60b4e4d691de24a7",
-    "url": "/tekway/static/js/main.f53c8e5f.chunk.js"
+    "revision": "7bb8deef4ee80aabdf54",
+    "url": "/tekway/static/js/main.7edf4a44.chunk.js"
   },
   {
     "revision": "2f6154d3e4ca52c9b15e",

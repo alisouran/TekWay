@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tekway/precache-manifest.01032816be1ab02a423a288a924bbec7.js"
+  "/tekway/precache-manifest.14910cb52b52c8ea3fae1b082d7f98be.js"
 );
 
 self.addEventListener('message', (event) => {

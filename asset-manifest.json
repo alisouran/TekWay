@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tekway/static/css/main.23e8431a.chunk.css",
-    "main.js": "/tekway/static/js/main.f53c8e5f.chunk.js",
-    "main.js.map": "/tekway/static/js/main.f53c8e5f.chunk.js.map",
+    "main.js": "/tekway/static/js/main.7edf4a44.chunk.js",
+    "main.js.map": "/tekway/static/js/main.7edf4a44.chunk.js.map",
     "runtime~main.js": "/tekway/static/js/runtime~main.5283cbf7.js",
     "runtime~main.js.map": "/tekway/static/js/runtime~main.5283cbf7.js.map",
     "static/js/2.3310f33a.chunk.js": "/tekway/static/js/2.3310f33a.chunk.js",
     "static/js/2.3310f33a.chunk.js.map": "/tekway/static/js/2.3310f33a.chunk.js.map",
     "index.html": "/tekway/index.html",
-    "precache-manifest.01032816be1ab02a423a288a924bbec7.js": "/tekway/precache-manifest.01032816be1ab02a423a288a924bbec7.js",
+    "precache-manifest.14910cb52b52c8ea3fae1b082d7f98be.js": "/tekway/precache-manifest.14910cb52b52c8ea3fae1b082d7f98be.js",
     "service-worker.js": "/tekway/service-worker.js",
     "static/css/main.23e8431a.chunk.css.map": "/tekway/static/css/main.23e8431a.chunk.css.map"
   }
