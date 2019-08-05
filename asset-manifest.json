@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TekWay/static/css/main.23e8431a.chunk.css",
+    "main.js": "/TekWay/static/js/main.5109ea88.chunk.js",
+    "main.js.map": "/TekWay/static/js/main.5109ea88.chunk.js.map",
+    "runtime~main.js": "/TekWay/static/js/runtime~main.c22be12b.js",
+    "runtime~main.js.map": "/TekWay/static/js/runtime~main.c22be12b.js.map",
+    "static/js/2.3310f33a.chunk.js": "/TekWay/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/TekWay/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/TekWay/index.html",
+    "precache-manifest.e5ce0d8a3335580db97412e6978bf682.js": "/TekWay/precache-manifest.e5ce0d8a3335580db97412e6978bf682.js",
+    "service-worker.js": "/TekWay/service-worker.js",
+    "static/css/main.23e8431a.chunk.css.map": "/TekWay/static/css/main.23e8431a.chunk.css.map"
+  }
+}
